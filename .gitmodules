@@ -10,6 +10,3 @@
 [submodule "modules/mod-solo-lfg"]
 	path = modules/mod-solo-lfg
 	url = https://github.com/azerothcore/mod-solo-lfg.git
-[submodule "modules/mod-transmog"]
-	path = modules/mod-transmog
-	url = https://github.com/azerothcore/mod-transmog.git
