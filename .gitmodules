@@ -1,0 +1,15 @@
+[submodule "modules/mod-autobalance"]
+	path = modules/mod-autobalance
+	url = https://github.com/azerothcore/mod-autobalance.git
+[submodule "modules/mod-eluna-lua-engine"]
+	path = modules/mod-eluna-lua-engine
+	url = https://github.com/azerothcore/mod-eluna-lua-engine.git
+[submodule "modules/mod-solocraft"]
+	path = modules/mod-solocraft
+	url = https://github.com/azerothcore/mod-solocraft.git
+[submodule "modules/mod-solo-lfg"]
+	path = modules/mod-solo-lfg
+	url = https://github.com/azerothcore/mod-solo-lfg.git
+[submodule "modules/mod-transmog"]
+	path = modules/mod-transmog
+	url = https://github.com/azerothcore/mod-transmog.git
